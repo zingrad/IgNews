@@ -105,7 +105,7 @@ module.exports = require("stripe");
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"name":"ignews","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},"dependencies":{"next":"12.1.5","react":"18.0.0","react-dom":"18.0.0","react-icons":"^4.3.1","sass":"^1.50.0","stripe":"^9.1.0"},"devDependencies":{"@types/node":"^17.0.25","@types/react":"^18.0.5","typescript":"^4.6.3"}}');
+module.exports = JSON.parse('{"name":"ignews","version":"0.1.0","homepage":"./","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},"dependencies":{"next":"12.1.5","react":"18.0.0","react-dom":"18.0.0","react-icons":"^4.3.1","sass":"^1.50.0","stripe":"^9.1.0"},"devDependencies":{"@types/node":"^17.0.25","@types/react":"^18.0.5","typescript":"^4.6.3"}}');
 
 /***/ })
 
